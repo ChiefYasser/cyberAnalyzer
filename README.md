@@ -1,4 +1,4 @@
-# ??? CyberWatch 
+ CyberWatch 
 A simple school project for analyzing cybersecurity logs using NoSQL (MongoDB). 
  
 ## Description 
