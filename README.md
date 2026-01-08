@@ -219,3 +219,8 @@ Deployment (Vercel / Render / Docker)
 
 
 ![WhatsApp Image 2026-01-06 at 13 14 10](https://github.com/user-attachments/assets/39b636e5-809f-43ae-ba38-c40bd86eb0dd)
+
+This prototype represents an early-stage foundation for a future intelligent cybersecurity monitoring platform integrating automation, AI-driven analysis, and real-time threat detection. And an automatate version that generates rappots weekly using n8n 
+
+<img width="1497" height="630" alt="image" src="https://github.com/user-attachments/assets/c2dcd924-b4fd-49b9-9d12-c631811d2e22" />
+
