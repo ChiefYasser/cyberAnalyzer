@@ -1,9 +1,9 @@
-# 🛡️ CyberWatch  
+# CyberWatch  
 **Cybersecurity Log Analysis Platform (NoSQL – MongoDB)**
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **CyberWatch** is a simple cybersecurity monitoring and log analysis platform built as a **school project**.  
 It focuses on collecting, storing, visualizing, and analyzing security-related logs using **MongoDB (NoSQL)**.
@@ -12,44 +12,44 @@ The project detects **basic cyberattack patterns** such as **Brute Force attacks
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 The main objectives of this project are:
 
-- 📚 Learn **NoSQL database integration** using **MongoDB**
-- 🔐 Understand **cybersecurity log analysis fundamentals**
-- 🧠 Detect common attacks using **rule-based logic**
-- 🏗️ Build a **clear, modular, and scalable architecture**
-- 🧪 Simulate realistic cybersecurity events for testing
-- 📊 Visualize logs, alerts, and incidents in a web dashboard
+-  Learn **NoSQL database integration** using **MongoDB**
+-  Understand **cybersecurity log analysis fundamentals**
+-  Detect common attacks using **rule-based logic**
+-  Build a **clear, modular, and scalable architecture**
+-  Simulate realistic cybersecurity events for testing
+-  Visualize logs, alerts, and incidents in a web dashboard
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 
-### 🔍 Log Management
+###  Log Management
 - Centralized collection of security logs
 - Storage in MongoDB for scalability and flexibility
 - Support for different log types (authentication, network, system)
 
-### 🚨 Attack Detection (Rule-Based)
+###  Attack Detection (Rule-Based)
 - Brute force detection (multiple failed login attempts)
 - DDoS-like detection (high request rate from same source)
 - Alert generation based on thresholds
 
-### 📊 Dashboard & Visualization
+###  Dashboard & Visualization
 - View logs in real time
 - Display alerts and incidents
 - Weekly security report generation (PDF)
 
-### 🧪 Fake Simulation Module
+###  Fake Simulation Module
 - Generates realistic fake security logs
-- Simulates attacks and normal behavior
+- Si1mulates attacks and normal behavior
 - Helps test detection logic without real attacks
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 [ Fake Simulation ]
 ↓
@@ -63,9 +63,9 @@ The main objectives of this project are:
 
 ---
 
-## 🧠 Technology Stack
+##  Technology Stack
 
-### 🔧 Backend
+###  Backend
 
 | Technology | Description |
 |-----------|------------|
@@ -80,7 +80,7 @@ The main objectives of this project are:
 
 ---
 
-### 🎨 Frontend
+###  Frontend
 
 | Technology | Description |
 |-----------|------------|
@@ -95,7 +95,7 @@ The main objectives of this project are:
 
 ---
 
-### 🧪 Fake Simulation (`fake_sim`)
+### Fake Simulation (`fake_sim`)
 
 | Technology | Description |
 |-----------|------------|
@@ -134,7 +134,7 @@ yberWatch/
 
 ---
 
-## 🔐 Authentication Flow
+##  Authentication Flow
 
 1. User registers or logs in
 2. Password is hashed using **bcrypt**
@@ -144,7 +144,7 @@ yberWatch/
 
 ---
 
-## 📊 Reporting
+##  Reporting
 
 - Weekly security reports generated as **PDF**
 - Includes:
@@ -156,7 +156,7 @@ yberWatch/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Backend
 
@@ -179,13 +179,9 @@ node simulator.js
 
 ⚠️ Limitations
 
-❌ No AI / Machine Learning (by design)
-
-❌ Basic detection logic only
-
-❌ Not production-ready
-
-❌ No real-time IDS integration
+ Basic detection logic only
+ Not production-ready
+ No real-time IDS integration
 
 🧠 Learning Outcomes
 
